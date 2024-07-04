@@ -4,7 +4,7 @@ that was for FUM (ferdowsi university of mashhad)
 that was a game with GUI : Swing in Java
 -----------
 here is a link to have a view on our projection 
-https://uupload.ir/view/k_y68q.mp4
+[https://uupload.ir/view/k_y68q.mp4](https://uupload.ir/view/k[1]_h2l.mp4/)
 
 For Run this Game :
 -----------
